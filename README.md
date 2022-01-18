@@ -20,7 +20,7 @@
 
 ### 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐕𝐈𝐏 𝐒𝐂𝐑𝐈𝐏𝐓
 
-[𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐒𝐂𝐑𝐈𝐏𝐓](https://replit.com/@AdityaHalder/StringSession)
+[𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐒𝐂𝐑𝐈𝐏𝐓](https://github.com/xdpapa28/Ankit-Free-fire/blob/main/Antiban%20Script/FREE%20FIRE%20ANTIBAN.lua)
 
 
 
